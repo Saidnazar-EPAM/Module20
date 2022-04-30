@@ -1,0 +1,18 @@
+[
+  {
+    "outputFileName": "wwwroot/js/site.min.js",
+    "inputFiles": [ "wwwroot/datatables/js/jquery.dataTables.js", "wwwroot/datatables/js/dataTables.bootstrap.js", "wwwroot/datatables/js/dataTables.bootstrap4.js", "wwwroot/datatables/js/dataTables.dataTables.js", "wwwroot/datatables/js/dataTables.foundation.js", "wwwroot/datatables/js/dataTables.jqueryui.js", "wwwroot/datatables/js/dataTables.material.js", "wwwroot/datatables/js/dataTables.semanticui.js", "wwwroot/datatables/js/dataTables.uikit.js", "wwwroot/datatables/js/datatables-buttons/js/dataTables.buttons.js", "wwwroot/datatables/js/datatables-buttons/js/buttons.colVis.js", "wwwroot/datatables/js/datatables-buttons/js/buttons.flash.js", "wwwroot/datatables/js/datatables-buttons/js/buttons.html5.js", "wwwroot/datatables/js/datatables-buttons/js/buttons.print.js" ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    }
+  },
+  {
+    "outputFileName": "wwwroot/css/site.min.css",
+    "inputFiles": [ "wwwroot/datatables/css/jquery.dataTables.css", "wwwroot/datatables/css/dataTables.bootstrap.css", "wwwroot/datatables/css/dataTables.bootstrap4.css", "wwwroot/datatables/css/dataTables.foundation.css", "wwwroot/datatables/css/dataTables.jqueryui.css", "wwwroot/datatables/css/dataTables.material.css", "wwwroot/datatables/css/dataTables.semanticui.css", "wwwroot/datatables/css/dataTables.uikit.css", "wwwroot/datatables/css/buttons.dataTables.min.css" ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    }
+  }
+]  
